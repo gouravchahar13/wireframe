@@ -12,11 +12,11 @@ Welcome This repository contains the source code and resources for a wireframe p
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/project-bolt.git
+    git clone https://github.com/gouravchahar13/wireframe.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd project-bolt
+    cd wireframe
     ```
 3. Install dependencies:
     ```bash
@@ -53,6 +53,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For questions or feedback, please contact [Your Name/Team] at [your-email@example.com].
